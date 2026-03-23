@@ -104,20 +104,25 @@ print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Vali
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img width="829" height="818" alt="Screenshot 2026-02-23 085912" src="https://github.com/user-attachments/assets/2fe2084b-034e-4cde-9cde-5b24446e2b2e" />
+<img width="795" height="830" alt="image" src="https://github.com/user-attachments/assets/f18264ce-d478-46b5-81ed-5233ac7ad89f" />
+
 
 
 ### Confusion Matrix
 
-<img width="1351" height="659" alt="Screenshot 2026-02-23 072125" src="https://github.com/user-attachments/assets/7e49958a-c882-42d9-b077-504ac4663a70" />
+<img width="705" height="660" alt="image" src="https://github.com/user-attachments/assets/a0c7ae41-636f-4d52-be85-ae27b41eb07c" />
+
 
 ### Classification Report
-<img width="499" height="215" alt="image" src="https://github.com/user-attachments/assets/2ff78830-acd6-42fe-979d-7a925920d667" />
+<img width="476" height="194" alt="image" src="https://github.com/user-attachments/assets/309fc392-271d-4298-be42-63e82bfdbdf3" />
+
 
 ### New Sample Prediction
-<img width="374" height="315" alt="Screenshot 2026-02-23 072133" src="https://github.com/user-attachments/assets/2d23c80e-6da9-479c-8bc0-749b19450057" />
+<img width="434" height="441" alt="image" src="https://github.com/user-attachments/assets/052e59f0-368a-4865-b6a5-341d9fd91fb1" />
 
-<img width="322" height="326" alt="Screenshot 2026-02-23 072139" src="https://github.com/user-attachments/assets/18b59143-0584-47c1-bd77-dd44e2edfbdf" />
+
+<img width="458" height="447" alt="image" src="https://github.com/user-attachments/assets/62662051-5996-48aa-b537-d481596a2c7f" />
+
 
 
 ## RESULT
